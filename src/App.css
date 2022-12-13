@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+}
+.card {
+  background-color: yellow;
+}
+
+button {
+  color: green;
+  background-color: red;
+}
